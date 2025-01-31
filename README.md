@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Josemiguelscferreira/Josemiguelscferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm José Ferreira, a Junior FullStack Developer! 
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Work Experience: Previously an Architect and 3D Artist
+Currently learning: OutSystems
+Interests: Developing 3D models and renders, playing guitar, drums and bass, playing computer games and cooking
+Programming info: Just finished my Code For All_ Bootcamp in december 2024
+
+
+Main technologies & Tools:
+
+OutSystems, Java, JavaScript, Ant, Git and Maven
+
+
+Current Focus:
+
+Building full-stack applications and developing my OutSystems skills
+
+
+Future Plans:
+
+Pursuing certifications
+Experimenting with new technologies and tools such as frameworks and libraries
+Preparing for my first software development role
+
+Contact me:
+Linkedin https://www.linkedin.com/in/josemiguelscferreira/
+Email josemiguelscferreira@gmail.com
